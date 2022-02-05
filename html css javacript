@@ -1,0 +1,3117 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Mount </title>
+
+html
+
+</head>
+
+
+<head>
+	<link rel="shortcut icon" href="favicon(1).ico" type="image/x-icon">
+</head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+	/* Style the body */
+	body {
+		font-family: Arial;
+		margin: 0;
+		display: block;
+		position: fixed;
+
+
+	}
+
+	/* Header/Logo Title */
+	.header {
+		padding: px;
+		text-align: center;
+
+		box-shadow: 1px 1px 10px #333;
+		background: translucent background: linear-gradient(to left, #F2709C, #FF9472);
+
+		color: white;
+		font-size: 10px;
+
+	}
+
+	/* Page Content */
+	.content {}
+</style>
+</head>
+
+<body>
+
+	<div class="header">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			.dropbtn {
+				background: linear-gradient(to left, #F2709C, #FF9472);
+				color: black;
+				padding: 6px;
+				font-size: 15px;
+				border: none;
+				box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.30), 0px 1px 1px rgba(0, 0, 0, .4);
+
+				box-shadow: 1px 1px 10px #333;
+			}
+
+			.dropdown {
+				position: relative;
+				display: inline-block;
+			}
+
+			.dropdown-content {
+				display: none;
+				position: absolute;
+				background-color: #f1f1f2;
+				min-width: 100px;
+				box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.2);
+				z-index: 1;
+			}
+
+			.dropdown-content a {
+				color: black;
+				padding: 12px 10px;
+				text-decoration: none;
+				display: block;
+			}
+
+			.dropdown-content a:hover {
+				background-color: #ddd;
+			}
+
+			.dropdown:hover .dropdown-content {
+				display: block;
+			}
+
+			.dropdown:hover .dropbtn {
+				background-color: #3e8e41;
+			}
+		</style>
+		</head>
+
+		<body>
+
+
+
+			<div class="dropdown">
+				<button class="dropbtn">mount</button>
+  <div class="dropdown-content">
+    <a href="#">sleep</a>
+  
+ <a href="#">settings </a>
+    <a href="#">shutdown</a>
+     <a href="#">restart</a>
+      <a href="#">more...</a>
+    
+    
+  </div>
+</div>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			.dropbtn {
+				background: linear-gradient(to left, #F2709C, #FF9472);
+				color: black;
+				padding: 6px;
+				font-size: 15px;
+				border: none;
+				box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.30), 0px 1px 1px rgba(0, 0, 0, .4);
+
+				box-shadow: 1px 1px 10px #333;
+			}
+
+			.dropdown {
+				position: relative;
+				display: inline-block;
+			}
+
+			.dropdown-content {
+				display: none;
+				position: absolute;
+				background-color: #f1f1f2;
+				min-width: 100px;
+				box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.2);
+				z-index: 1;
+			}
+
+			.dropdown-content a {
+				color: black;
+				padding: 12px 10px;
+				text-decoration: none;
+				display: block;
+			}
+
+			.dropdown-content a:hover {
+				background-color: #ddd;
+			}
+
+			.dropdown:hover .dropdown-content {
+				display: block;
+			}
+
+			.dropdown:hover .dropbtn {
+				background-color: #3e8e41;
+			}
+		</style>
+		</head>
+
+		<body>
+
+
+
+			<div class="dropdown">
+				<button class="dropbtn">theme</button>
+  <div class="dropdown-content">
+    <a href="#">theme 1</a>
+  
+
+    <a href="#">theme 2</a>
+     <a href="#">theme 3</a>
+    
+    
+  </div>
+</div>
+
+		<style>
+			.dropbtn {
+				background-color: color: white;
+				padding: 7px;
+				font-size: 10px;
+				border: none;
+				algin: left;
+        left: 0;
+			}
+
+			.dropdown {
+				position: relative;
+				display: block;
+
+			}
+
+			.dropdown-content {
+				display: none;
+				position: fixed;
+				background-color: ;
+				min-width: 100px;
+				box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.2);
+				z-index: 1;
+			}
+
+			.dropdown-content a {
+				color: black;
+				padding: 20px 20px;
+				text-decoration: none;
+				display: block;
+			}
+
+			.dropdown-content a:hover {
+				background-color: #ddd;
+			}
+
+			.dropdown:hover .dropdown-content {
+				display: block;
+			}
+
+			.dropdown:hover .dropbtn {
+				background-color: #3e8e41;
+			}
+		</style>
+		</head>
+
+		<body>
+
+
+
+			<div class="dropdown">
+				<button class="dropbtn">file</button>
+  <div class="dropdown-content">
+    <a href="#">new file</a>
+   
+    <a href="#">other</a>
+     <a href="#">paste</a>
+    
+    
+  </div>
+</div>
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: 
+  color: white;
+  padding: 6px;
+  font-size: 7px;
+  border: none;
+}
+
+.dropdown {
+  position:relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f2;
+  min-width: 100px;
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">file</button>
+  <div class="dropdown-content">
+    <iframe src="https://apps.mohammedtareq2.repl.co" height="400" width="500" title="Iframe Example"></iframe>
+    
+    
+  </div>
+</div>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: 
+  color: white;
+  padding: 6px;
+  font-size: 7px;
+  border: none;
+}
+
+.dropdown {
+  position:relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f2;
+  min-width: 100px;
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">theme</button>
+  <div class="dropdown-content">
+    <a href="#">theme 1</a>
+  
+
+    <a href="#">theme 2</a>
+     <a href="#">theme 3</a>
+    
+    
+  </div>
+</div>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: 
+  color: white;
+  padding: 6px;
+  font-size: 7px;
+  border: none;
+}
+
+.dropdown {
+  position:relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f2;
+  min-width: 100px;
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn"> backround</button>
+  <div class="dropdown-content">
+    <a href="#">background 1</a>
+  
+
+    <a href="#">background 2</a>
+     <a href="#">background 3</a>
+      <a href="#">background 4</a>
+      <a href="#">more...</a>
+    
+    
+  </div>
+</div>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: 
+  color: white;
+  padding: 6px;
+  font-size: 7px;
+  border: none;
+}
+
+.dropdown {
+  position:relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f2;
+  min-width: 100px;
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn"> dock</button>
+  <div class="dropdown-content">
+    <a href="#">left</a>
+    <a href="#">right</a>
+     <a href="#">bottom</a>
+      <a href="#">top</a>
+     
+    
+    
+  </div>
+</div>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: 
+  color: white;
+  padding: 6px;
+  font-size: 1px;
+  border: none;
+  algin: left; 
+  border-radius: 6px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline;
+ 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f2;
+  min-width: 200px;
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">🔘</button>
+  <div class="dropdown-content">
+    <a href="https://optimisticsquigglyspecialist.mohammedtareq2.repl.co/">assistant</a>
+   
+    
+  </div>
+</div>
+<style>
+
+p {color:rgba(200,200,200,0.8); display: inline; font-size: 1px;}
+
+</style>
+</head>
+<body>
+
+
+<p>...........................................................................................................................................................
+............................................................................................
+..............................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+.............................................................................................................................................................................................................................................................................................................................................................................................................................................................
+........................................................................................................................................................................................................................................................................................................................................................................................
+</p>
+
+</body>
+<style>
+  iframe{
+    frameborder: none;
+  }
+  </style>
+<style>
+  .keyboard {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 5px 0;
+    background: #004134;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    user-select: none;
+    transition: bottom 0.4s;
+}
+
+.keyboard--hidden {
+    bottom: -100%;
+}
+
+.keyboard__keys {
+    text-align: center;
+}
+
+.keyboard__key {
+    height: 45px;
+    width: 6%;
+    max-width: 90px;
+    margin: 3px;
+    border-radius: 4px;
+    border: none;
+    background: rgba(255, 255, 255, 0.2);
+    color: #ffffff;
+    font-size: 1.05rem;
+    outline: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: top;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+}
+
+.keyboard__key:active {
+    background: rgba(255, 255, 255, 0.12);
+}
+
+.keyboard__key--wide {
+    width: 12%;
+}
+
+.keyboard__key--extra-wide {
+    width: 36%;
+    max-width: 500px;
+}
+
+.keyboard__key--activatable::after {
+    content: '';
+    top: 10px;
+    right: 10px;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 50%;
+}
+
+.keyboard__key--active::after {
+    background: #08ff00;
+}
+
+.keyboard__key--dark {
+    background: rgba(0, 0, 0, 0.25);
+}
+
+</style>
+<!DOCTYPE html>
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+   
+    <link rel="stylesheet" href="/assets/dcode.css">
+    <link rel="stylesheet" href="keyboard/Keyboard.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+    
+    <textarea class="use-keyboard-input" style="position: absolute; top: 130px; right: 30px; width: 500px; height: 300px; notes "></textarea>
+
+    <script src="keyboard/Keyboard.js"></script>
+</body>
+<script>
+  const Keyboard = {
+    elements: {
+        main: null,
+        keysContainer: null,
+        keys: []
+    },
+
+    eventHandlers: {
+        oninput: null,
+        onclose: null
+    },
+
+    properties: {
+        value: "",
+        capsLock: false
+    },
+
+    init() {
+        // Create main elements
+        this.elements.main = document.createElement("div");
+        this.elements.keysContainer = document.createElement("div");
+
+        // Setup main elements
+        this.elements.main.classList.add("keyboard", "keyboard--hidden");
+        this.elements.keysContainer.classList.add("keyboard__keys");
+        this.elements.keysContainer.appendChild(this._createKeys());
+
+        this.elements.keys = this.elements.keysContainer.querySelectorAll(".keyboard__key");
+
+        // Add to DOM
+        this.elements.main.appendChild(this.elements.keysContainer);
+        document.body.appendChild(this.elements.main);
+
+        // Automatically use keyboard for elements with .use-keyboard-input
+        document.querySelectorAll(".use-keyboard-input").forEach(element => {
+            element.addEventListener("focus", () => {
+                this.open(element.value, currentValue => {
+                    element.value = currentValue;
+                });
+            });
+        });
+    },
+
+    _createKeys() {
+        const fragment = document.createDocumentFragment();
+        const keyLayout = [
+            "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "backspace",
+            "q", "w", "e", "r", "t", "y", "u", "i", "o", "p",
+            "caps", "a", "s", "d", "f", "g", "h", "j", "k", "l", "enter",
+            "done", "z", "x", "c", "v", "b", "n", "m", ",", ".", "?",
+            "space"
+        ];
+
+        // Creates HTML for an icon
+        const createIconHTML = (icon_name) => {
+            return `<i class="material-icons">${icon_name}</i>`;
+        };
+
+        keyLayout.forEach(key => {
+            const keyElement = document.createElement("button");
+            const insertLineBreak = ["backspace", "p", "enter", "?"].indexOf(key) !== -1;
+
+            // Add attributes/classes
+            keyElement.setAttribute("type", "button");
+            keyElement.classList.add("keyboard__key");
+
+            switch (key) {
+                case "backspace":
+                    keyElement.classList.add("keyboard__key--wide");
+                    keyElement.innerHTML = createIconHTML("backspace");
+
+                    keyElement.addEventListener("click", () => {
+                        this.properties.value = this.properties.value.substring(0, this.properties.value.length - 1);
+                        this._triggerEvent("oninput");
+                    });
+
+                    break;
+
+                case "caps":
+                    keyElement.classList.add("keyboard__key--wide", "keyboard__key--activatable");
+                    keyElement.innerHTML = createIconHTML("keyboard_capslock");
+
+                    keyElement.addEventListener("click", () => {
+                        this._toggleCapsLock();
+                        keyElement.classList.toggle("keyboard__key--active", this.properties.capsLock);
+                    });
+
+                    break;
+
+                case "enter":
+                    keyElement.classList.add("keyboard__key--wide");
+                    keyElement.innerHTML = createIconHTML("keyboard_return");
+
+                    keyElement.addEventListener("click", () => {
+                        this.properties.value += "\n";
+                        this._triggerEvent("oninput");
+                    });
+
+                    break;
+
+                case "space":
+                    keyElement.classList.add("keyboard__key--extra-wide");
+                    keyElement.innerHTML = createIconHTML("space_bar");
+
+                    keyElement.addEventListener("click", () => {
+                        this.properties.value += " ";
+                        this._triggerEvent("oninput");
+                    });
+
+                    break;
+
+                case "done":
+                    keyElement.classList.add("keyboard__key--wide", "keyboard__key--dark");
+                    keyElement.innerHTML = createIconHTML("check_circle");
+
+                    keyElement.addEventListener("click", () => {
+                        this.close();
+                        this._triggerEvent("onclose");
+                    });
+
+                    break;
+
+                default:
+                    keyElement.textContent = key.toLowerCase();
+
+                    keyElement.addEventListener("click", () => {
+                        this.properties.value += this.properties.capsLock ? key.toUpperCase() : key.toLowerCase();
+                        this._triggerEvent("oninput");
+                    });
+
+                    break;
+            }
+
+            fragment.appendChild(keyElement);
+
+            if (insertLineBreak) {
+                fragment.appendChild(document.createElement("br"));
+            }
+        });
+
+        return fragment;
+    },
+
+    _triggerEvent(handlerName) {
+        if (typeof this.eventHandlers[handlerName] == "function") {
+            this.eventHandlers[handlerName](this.properties.value);
+        }
+    },
+
+    _toggleCapsLock() {
+        this.properties.capsLock = !this.properties.capsLock;
+
+        for (const key of this.elements.keys) {
+            if (key.childElementCount === 0) {
+                key.textContent = this.properties.capsLock ? key.textContent.toUpperCase() : key.textContent.toLowerCase();
+            }
+        }
+    },
+
+    open(initialValue, oninput, onclose) {
+        this.properties.value = initialValue || "";
+        this.eventHandlers.oninput = oninput;
+        this.eventHandlers.onclose = onclose;
+        this.elements.main.classList.remove("keyboard--hidden");
+    },
+
+    close() {
+        this.properties.value = "";
+        this.eventHandlers.oninput = oninput;
+        this.eventHandlers.onclose = onclose;
+        this.elements.main.classList.add("keyboard--hidden");
+    }
+};
+
+window.addEventListener("DOMContentLoaded", function () {
+    Keyboard.init();
+});
+
+</script>
+
+
+
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🔊									
+  <span class="tooltiptext">
+<iframe src="https://volume-slider.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🕑									
+  <span class="tooltiptext">
+<iframe src="https://cccc.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🖲️									
+  <span class="tooltiptext">
+<iframe src="https://screen-recorder.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🔋									
+  <span class="tooltiptext">
+<iframe src="https://battery.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🔍								
+  <span class="tooltiptext">
+ <script async src="https://cse.google.com/cse.js?cx=018228575821679116700:fpvodqkpyqo"></script>
+
+<div style="">
+<div class="gcse-searchbox"></div>
+</div>
+
+<div style="">
+type to search
+<div class="gcse-searchresults"></div>
+</div></span>
+</div>
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+  
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">									
+  <span class="tooltiptext">
+<iframe src="https://settings-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🏧									
+  <span class="tooltiptext">
+<button id="cast">Cast</button>
+<script>
+window['__onGCastApiAvailable'] = function (loaded, errorInfo) {
+    if (loaded) {
+        initializeCastApi();
+    } else {
+        console.log(errorInfo);
+    }
+}
+
+function initializeCastApi() {
+    var sessionRequest = new chrome.cast.SessionRequest(
+        chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID);
+    var apiConfig = new chrome.cast.ApiConfig(sessionRequest,
+        sessionListener,
+        receiverListener);
+    chrome.cast.initialize(apiConfig, function () {
+        //ok
+    }, null);
+}
+
+function sessionListener() {
+    console.log("sessionListener", arguments);
+}
+
+function receiverListener() {
+    console.log("receiverListener", arguments);
+}
+
+document.querySelector("#cast").addEventListener("click", function(){
+    chrome.cast.requestSession(function(e){
+        var session = e,
+            URL = /* url here */,
+            type = /* type here */;
+        
+        var mediaInfo = new chrome.cast.media.MediaInfo(URL);
+        mediaInfo.contentType = type;
+        mediaInfo.metadata = new chrome.cast.media.MusicTrackMediaMetadata();
+        mediaInfo.metadata.metadataType = chrome.cast.media.MetadataType.MUSIC_TRACK;
+        mediaInfo.metadata.songName = /* song name */;
+        mediaInfo.metadata.artist = /* artist name */;
+        var request = new chrome.cast.media.LoadRequest(mediaInfo);
+        
+        session.loadMedia(request, function(){
+            console.log("loaded", arguments);
+        }, function(){
+            console.log("load error", arguments);
+        });
+    }, function(){
+        console.log("error casting", arguments);
+    });
+});
+</script></span>
+</div>
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+  
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  resize: both;
+  overflow: auto;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: -5px;
+  right: 105%;
+  
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">📆								
+  <span class="tooltiptext">
+    <html>
+ <head>
+ </head>
+ <body>
+  <script src="https://www.puck-js.com/puck.js"></script>
+  <button onclick="Puck.write('LED1.set();\n');">LED On!</button>
+ 
+ </body>
+</html>
+</span>
+</div>
+</body>
+<style>
+
+p {color:rgba(200,200,200,0.8); display: inline; font-size: 1px;}
+
+</style>
+</head>
+<body>
+
+
+<p>...........................................................................................................................................................
+..........................................................................................................................................................................................................................
+</p>
+
+</body>
+<iframe class="responsive-iframe" src="https://cccc.mohammedtareq2.repl.co/" height="20" width="70" frameborder="0" display="inline"></iframe>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+	body {
+		font-family: "Lato", sans-serif;
+	}
+
+	.sidenav {
+		height: 100%;
+    opacity: 0.9;
+		width: 0;
+		position: fixed;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+		z-index: 1;
+		top: 0;
+		left: 9;
+		right: 0;
+		background: linear-gradient(to left, #F2709C, #FF9472);
+	box-shadow: 0 3px 3px -5px #F2709C, 0 2px 5px #F2709C;
+		overflow-x: hidden;
+		transition: 0.5s;
+		padding-top: 50px;
+	}
+
+	.sidenav a {
+		padding: 90px 8px 8px 32px;
+		text-decoration: none;
+		font-size: 10px;
+		color: #818181;
+		display: block;
+		transition: 0.3s;
+    left: px;
+	}
+
+	.sidenav a:hover {
+		color: #f1f1f1;
+	}
+
+	.sidenav .closebtn {
+		position: absolute;
+		top: 2;
+		right: 25px;
+		font-size: 36px;
+		margin-left: 50px;
+	}
+
+	@media screen and (max-height: 450px) {
+		.sidenav {
+			padding-top: 15px;
+		}
+		.sidenav a {
+			font-size: 18px;
+		}
+	}
+</style>
+</head>
+
+<body>
+
+	<div id="mySidenav" class="sidenav">
+		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  display: inline-block;
+  color: black;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+
+<body>
+
+
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">tools</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">iformation</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">notifications</button>
+</div>
+
+<div id="London" class="tabcontent">
+  <style>
+			.button {
+					box-shadow: 5px 1x 1x rgba(0, 0, 0, 0.30), 0px 50px 15x rgba(0, 0, 0, .4);
+
+    background: linear-gradient(to left, #F2709C, #FF9472);
+				border: none;
+				color: white;
+				
+				text-align: center;
+				padding: 5px;
+				display: grid;
+				font-size: 29px;
+				
+				cursor: pointer;
+        height: 20px; 
+			}
+		</style>
+		</head>
+
+		<body>
+
+
+
+			<a style="button" href="https://screen-recorder.mohammedtareq2.repl.co/" class="button " > screen recorder</a>
+			<a href="https://mount-assistant.mohammedtareq2.repl.co/" target="_blank" class="button">assistant</a>
+      <a href="https://mount-explorer.mohammedtareq2.repl.co/" target="_blank" class="button">mount explorer</a>
+			<a href="https://play.google.com/store" target="_blank" class="button">google play</a>
+      <a href="https://speech to text.mohammedtareq2.repl.co" target="_blank" class="button">speech to text</a>
+			<a href="https://www.office.com/?auth=2" target="_blank" class="button">office</a>
+			<a href="https://maps.mohammedtareq2.repl.co/" target="_blank" class="button">maps</a>
+			<a href="#" target="_blank" class="button">widgets</a>
+			<iframe src="https://to-do-list.mohammedtareq2.repl.co/" height="300" width="220"title="Iframe Example"frameborder="0"frameborder="0"></iframe>
+			<iframe src="https://calculator.mohammedtareq2.repl.co/" height="300" width="220" title="Iframe Example"frameborder="0"></iframe>
+      <iframe src="https://battery.mohammedtareq2.repl.co/" height="300" width="220" title="Iframe Example"frameborder="0"frameborder="0"></iframe>
+      <iframe src="https://browser-detector.mohammedtareq2.repl.co/" height="220" width="300" title="Iframe Example"frameborder="0"></iframe>
+      <iframe src="https://counter.mohammedtareq2.repl.co/" height="300" width="220" title="Iframe Example"frameborder="0"></iframe>
+      
+      <body>
+    <button id="start">
+      Start Recording
+    </button>
+    <button id="stop" disabled>
+      Stop Recording
+    </button>
+    <video autoplay />
+
+    <script src="src/index.js"></script>
+  </body>
+</html>
+
+    <script>
+      const start = document.getElementById("start");
+const stop = document.getElementById("stop");
+const video = document.querySelector("video");
+let recorder, stream;
+
+async function startRecording() {
+  stream = await navigator.mediaDevices.getDisplayMedia({
+    video: { mediaSource: "screen" }
+  });
+  recorder = new MediaRecorder(stream);
+
+  const chunks = [];
+  recorder.ondataavailable = e => chunks.push(e.data);
+  recorder.onstop = e => {
+    const completeBlob = new Blob(chunks, { type: chunks[0].type });
+    video.src = URL.createObjectURL(completeBlob);
+  };
+
+  recorder.start();
+}
+
+start.addEventListener("click", () => {
+  start.setAttribute("disabled", true);
+  stop.removeAttribute("disabled");
+
+  startRecording();
+});
+
+stop.addEventListener("click", () => {
+  stop.setAttribute("disabled", true);
+  start.removeAttribute("disabled");
+
+  recorder.stop();
+  stream.getVideoTracks()[0].stop();
+});
+
+</script>
+
+</div>
+
+<div id="Paris" class="tabcontent">
+  <iframe src="https://weather.mohammedtareq2.repl.co" height=400 width=100% title="Iframe Example"></iframe>
+    <iframe src="https://mount-assistant.mohammedtare.repl.co" height=400 width=100% title="Iframe Example"></iframe>
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+   <
+
+</html>
+
+
+	</div>
+
+
+	<span style="font-size:10px;cursor:pointer" onclick="openNav()">&#9776; </span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+</div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.openBtn {
+  background: ;
+  border: none;
+  padding: 5px 12px;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+.openBtn:hover {
+  background: #bbb;
+}
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  display: none;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+}
+
+.overlay-content {
+  position: relative;
+  top: 46%;
+  width: 80%;
+  text-align: center;
+  margin-top: 30px;
+  margin: auto;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  cursor: pointer;
+  color: white;
+}
+
+.overlay .closebtn:hover {
+  color: #ccc;
+}
+
+.overlay input[type=text] {
+  padding: 15px;
+  font-size: 17px;
+  border: none;
+  float: left;
+  width: 80%;
+  background: white;
+}
+
+.overlay input[type=text]:hover {
+  background: #f1f1f1;
+}
+
+.overlay button {
+  float: left;
+  width: 20%;
+  padding: 15px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.overlay button:hover {
+  background: #bbb;
+}
+</style>
+
+
+
+
+
+</head>
+
+</div>
+
+<div class="content">
+ 
+</div>
+
+</body>
+</html>
+   
+<body>
+
+	<div class="header">
+
+
+		</head>
+
+		<body>
+
+
+
+
+
+
+
+			<style>
+				.dropbtn {
+					background-color: color: white;
+					padding: 6px;
+					font-size: 7px;
+					border: none;
+				}
+
+				.dropdown {
+					position: relative;
+					display: inline-block;
+				}
+
+				.dropdown-content {
+					display: none;
+					position: absolute;
+					background-color: #f1f1f2;
+					min-width: 200px;
+					box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.2);
+					z-index: 1;
+				}
+
+				.dropdown-content a {
+					color: black;
+					padding: 12px 10px;
+					text-decoration: none;
+					display: block;
+				}
+
+				.dropdown-content a:hover {
+					background-color: #ddd;
+				}
+
+				.dropdown:hover .dropdown-content {
+					display: block;
+				}
+
+				.dropdown:hover .dropbtn {
+					background-color: #3e8e41;
+				}
+			</style>
+			</head>
+
+			<body>
+
+
+
+
+
+
+	</div>
+	</div>
+
+	<style>
+		.dropbtn {
+			background-color: color: white;
+			padding: 6px;
+			font-size: 7px;
+			border: none;
+			algin: left;
+		}
+
+		.dropdown {
+			position: relative;
+			display: inline-block;
+
+		}
+
+		.dropdown-content {
+			display: none;
+			position: absolute;
+			background-color: #f1f1f2;
+			min-width: 200px;
+			box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.2);
+			z-index: 1;
+		}
+
+		.dropdown-content a {
+			color: black;
+			padding: 12px 10px;
+			text-decoration: none;
+			display: block;
+		}
+
+		.dropdown-content a:hover {
+			background-color: #ddd;
+		}
+
+		.dropdown:hover .dropdown-content {
+			display: block;
+		}
+
+		.dropdown:hover .dropbtn {
+			background-color: #3e8e41;
+		}
+	</style>
+	</head>
+
+	<body>
+
+
+
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+			body {
+				font-family: Arial;
+			}
+
+			* {
+				box-sizing: border-box;
+			}
+
+			.openBtn {
+				background: ;
+				border: none;
+				padding: 5px 12px;
+				font-size: 10px;
+				cursor: pointer;
+			}
+
+			.openBtn:hover {
+				background: #bbb;
+			}
+
+			.overlay {
+				height: 100%;
+				width: 100%;
+				display: none;
+				position: fixed;
+				z-index: 1;
+				top: 0;
+				left: 0;
+				background-color: rgb(0, 0, 0);
+				background-color: rgba(0, 0, 0, 0.9);
+			}
+
+			.overlay-content {
+				position: relative;
+				top: 46%;
+				width: 80%;
+				text-align: center;
+				margin-top: 30px;
+				margin: auto;
+			}
+
+			.overlay .closebtn {
+				position: absolute;
+				top: 20px;
+				right: 45px;
+				font-size: 60px;
+				cursor: pointer;
+				color: white;
+			}
+
+			.overlay .closebtn:hover {
+				color: #ccc;
+			}
+
+			.overlay input[type=text] {
+				padding: 15px;
+				font-size: 17px;
+				border: none;
+				float: left;
+				width: 80%;
+				background: white;
+			}
+
+			.overlay input[type=text]:hover {
+				background: #f1f1f1;
+			}
+
+			.overlay button {
+				float: left;
+				width: 20%;
+				padding: 15px;
+				background: #ddd;
+				font-size: 17px;
+				border: none;
+				cursor: pointer;
+			}
+
+			.overlay button:hover {
+				background: #bbb;
+			}
+		</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			n {
+				font-family: Arial, Helvetica, sans-serif;
+			}
+
+			/* Full-width input fields */
+			input[type=text],
+			input[type=password] {
+				width: 100%;
+				padding: 12px 20px;
+				margin: 8px 0;
+				display: inline-block;
+				border: 1px solid #ccc;
+				box-sizing: border-box;
+			}
+
+			/* Set a style for all buttons */
+			button {
+				background-color: gray;
+				color: white;
+				padding: 14px 14px;
+				margin: 0.00000002px 0;
+				border: none;
+				cursor: pointer;
+				width: 100%;
+			}
+
+			button:hover {
+				opacity: 0.8;
+			}
+
+			/* Extra styles for the cancel button */
+			.cancelbtn {
+				width: 90%;
+				padding: 10px 18px;
+				background-color: #f44336;
+			}
+
+			/* Center the image and position the close button */
+			.imgcontainer {
+				text-align: center;
+				margin: 24px 0 12px 0;
+				position: relative;
+			}
+
+			img.avatar {
+				width: 40%;
+				border-radius: 50%;
+			}
+
+			.container {
+				padding: 16px;
+			}
+
+			span.psw {
+				float: right;
+				padding-top: 16px;
+			}
+
+			/* The Modal (background) */
+			.modal {
+				display: none;
+				/* Hidden by default */
+				position: fixed;
+				/* Stay in place */
+				z-index: 1;
+				/* Sit on top */
+				left: 0;
+				top: 0;
+				width: %;
+				/* Full width */
+				height: 90%;
+				/* Full height */
+				overflow: auto;
+				/* Enable scroll if needed */
+				background-color: rgb(0, 0, 0);
+				/* Fallback color */
+				background-color: rgba(0, 0, 0, 0.4);
+				/* Black w/ opacity */
+				padding-top: 50px;
+			}
+
+			/* Modal Content/Box */
+			.modal-content {
+				background-color: #fefefe;
+				margin: 5% auto 15% auto;
+				/* 5% from the top, 15% from the bottom and centered */
+				border: 1px solid #888;
+				width: 80%;
+				/* Could be more or less, depending on screen size */
+			}
+
+			/* The Close Button (x) */
+			.close {
+				position: absolute;
+				right: 25px;
+				top: 0;
+				color: #000;
+				font-size: 35px;
+				font-weight: bold;
+			}
+
+			.close:hover,
+			.close:focus {
+				color: red;
+				cursor: pointer;
+			}
+
+			/* Add Zoom Animation */
+			.animate {
+				-webkit-animation: animatezoom 0.6s;
+				animation: animatezoom 0.6s
+			}
+
+			@-webkit-keyframes animatezoom {
+				from {
+					-webkit-transform: scale(0)
+				}
+				to {
+					-webkit-transform: scale(1)
+				}
+			}
+
+			@keyframes animatezoom {
+				from {
+					transform: scale(0)
+				}
+				to {
+					transform: scale(1)
+				}
+			}
+
+			/* Change styles for span and cancel button on extra small screens */
+			@media screen and (max-width: 300px) {
+				span.psw {
+					display: block;
+					float: none;
+				}
+				.cancelbtn {
+					width: 100%;
+				}
+			}
+		</style>
+		</head>
+
+</html>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  overflow: hidden;
+  background: #f2f2f2;
+}
+.wrapper{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  animation: show_toast 1s ease forwards;
+}
+@keyframes show_toast {
+  0%{
+    transform: translateX(-100%);
+  }
+  40%{
+    transform: translateX(10%);
+  }
+  80%, 100%{
+    transform: translateX(20px);
+  }
+}
+.wrapper.hide{
+  animation: hide_toast 1s ease forwards;
+}
+@keyframes hide_toast {
+  0%{
+    transform: translateX(20px);
+  }
+  40%{
+    transform: translateX(10%);
+  }
+  80%, 100%{
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(-100%);
+  }
+}
+.wrapper .toast{
+  background: #fff;
+  padding: 20px 15px 20px 20px;
+  border-radius: 10px;
+  border-left: 5px solid #2ecc71;
+  box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.15);
+  width: 430px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.wrapper .toast.offline{
+  border-color: #ccc;
+}
+.toast .content{
+  display: flex;
+  align-items: center;
+}
+.content .icon{
+  font-size: 25px;
+  color: #fff;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 50%;
+  background: #2ecc71;
+}
+.toast.offline .content .icon{
+  background: #ccc;
+}
+.content .details{
+  margin-left: 15px;
+}
+.details span{
+  font-size: 20px;
+  font-weight: 500;
+}
+.details p{
+  color: #878787;
+}
+.toast .close-icon{
+  color: #878787;
+  font-size: 23px;
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  background: #f2f2f2;
+  transition: all 0.3s ease;
+}
+.close-icon:hover{
+  background: #efefef;
+}
+</style>
+<div class="wrapper">
+  <div class="toast">
+    <div class="content">
+      <div class="icon"><i class="uil uil-wifi"></i></div>
+      <div class="details">
+        <span>You're online now</span>
+        <p>Hurray! Internet is connected.</p>
+      </div>
+    </div>
+    <div class="close-icon"><i class="uil uil-times"></i></div>
+  </div>
+</div>
+<script>
+  // Selecting all required elements
+const wrapper = document.querySelector(".wrapper"),
+toast = wrapper.querySelector(".toast"),
+title = toast.querySelector("span"),
+subTitle = toast.querySelector("p"),
+wifiIcon = toast.querySelector(".icon"),
+closeIcon = toast.querySelector(".close-icon");
+
+window.onload = ()=>{
+    function ajax(){
+        let xhr = new XMLHttpRequest(); //creating new XML object
+        xhr.open("GET", "https://jsonplaceholder.typicode.com/posts", true); //sending get request on this URL
+        xhr.onload = ()=>{ //once ajax loaded
+            //if ajax status is equal to 200 or less than 300 that mean user is getting data from that provided url
+            //or his/her response status is 200 that means he/she is online
+            if(xhr.status == 200 && xhr.status < 300){
+                toast.classList.remove("offline");
+                title.innerText = "You're online now";
+                subTitle.innerText = "Hurray! Internet is connected.";
+                wifiIcon.innerHTML = '<i class="uil uil-wifi"></i>';
+                closeIcon.onclick = ()=>{ //hide toast notification on close icon click
+                    wrapper.classList.add("hide");
+                }
+                setTimeout(()=>{ //hide the toast notification automatically after 5 seconds
+                    wrapper.classList.add("hide");
+                }, 5000);
+            }else{
+                offline(); //calling offline function if ajax status is not equal to 200 or not less that 300
+            }
+        }
+        xhr.onerror = ()=>{
+            offline(); ////calling offline function if the passed url is not correct or returning 404 or other error
+        }
+        xhr.send(); //sending get request to the passed url
+    }
+
+    function offline(){ //function for offline
+        wrapper.classList.remove("hide");
+        toast.classList.add("offline");
+        title.innerText = "You're offline now";
+        subTitle.innerText = "Opps! Internet is disconnected.";
+        wifiIcon.innerHTML = '<i class="uil uil-wifi-slash"></i>';
+    }
+
+    setInterval(()=>{ //this setInterval function call ajax frequently after 100ms
+        ajax();
+    }, 100);
+}
+</script>
+<style>
+body {
+  background-image: url('https://wallpaperaccess.com/full/882671.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+
+<style>
+  
+        #dock-container {
+            position: fixed;
+            bottom: 0;
+            text-align: center;
+            right: 30%;
+            left: 10%;
+            width: 80%;
+            background: rgba(255,255,255, .35);
+;            border-radius: 10px 10px 0 0;
+resize: both;
+  overflow: auto;
+        }
+        #dock-container li {
+            list-style-type: none;
+            display: inline-block;
+            position: relative;
+        }
+           #dock-container li img {
+          width: 50px;
+          height: 50px;
+          -webkit-box-reflect: below 2px
+                    -webkit-gradient(linear, left top, left bottom, from(transparent),
+                    color-stop(0.7, transparent), to(rgba(255,255,255,.5)));
+          -webkit-transition: all 0.3s;
+          -webkit-transform-origin: 50% 100%;
+        }
+             #dock-container li:hover img { 
+          -webkit-transform: scale(2);
+          margin: 0 2em;
+        }
+        #dock-container li:hover + li img,
+        #dock-container li.prev img {
+          -webkit-transform: scale(1.5);
+          margin: 0 1.5em;
+        }
+    #dock-container li span {
+            display: none;
+            position: absolute;
+            bottom: 140px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0,0,0,0.75);
+            padding: 4px 0;
+            border-radius: 12px;
+        }
+        #dock-container li:hover span {
+            display: block;
+            color: #fff;
+        }
+        </style>
+<div id="dock-container">
+ <div id="dock">
+   <ul>
+      <li>
+        <span>painter</span>
+        <a href="https://mount-painter-1.mohammedtareq2.repl.co/"><img src="https://dl2.macupdate.com/images/icons256/25050.png"/></a>
+      </li>
+      <li>
+        <span>calculator</span>
+        <a href="https://calculator.mohammedtareq2.repl.co/"><img src="https://www.freeiconspng.com/uploads/calculator-icon-21.png"/></a>
+      </li>
+      <li>
+         <span>maps</span>
+         <a href="https://maps.mohammedtareq2.repl.co/"><img src="http://www.mcsin-k12.org/images/links/map.png"/></a>
+      </li>
+      <li>
+         <span>keyboard</span>
+         <a href="https://keyboard.mohammedtareq2.repl.co/"><img src="https://icons-for-free.com/iconfiles/png/512/keyboard+keypad+icon-1320168141975905818.png""/></a>
+      </li>
+      <li>
+        <span>painter</span>
+        <a href="text-to-speech.mohammedtareq2.repl.co"><img src="https://dl2.macupdate.com/images/icons256/25050.png"/></a>
+      </li>
+      <li>
+        <span>painter</span>
+        <a href="https://reminder.mohammedtareq2.repl.co/"><img src="https://image.flaticon.com/icons/png/128/4285/4285654.png"/></a>
+      </li>
+      <li>
+        <span>painter</span>
+        <a href="https://to-do-list.mohammedtareq2.repl.co.mohammedtareq2.repl.co/"><img src="https://image.flaticon.com/icons/png/512/3176/3176366.png"/></a>
+      </li>
+      <li>
+        <span>painter</span>
+        <a href="https://camera.mohammedtareq2.repl.co/"><img src="https://image.flaticon.com/icons/png/512/1042/1042339.png" /></a>
+      </li>
+      <li>
+        <span>painter</span>
+        <a href="https://settings.mohammedtareq2.repl.co/"><img src="https://image.flaticon.com/icons/png/512/3132/3132084.png" /></a>
+      </li>
+      <li>
+        <span>painter</span>
+        <a href="#"><img src="https://image.flaticon.com/icons/png/128/2784/2784459.png"/></a>
+      </li>
+       <li>
+        <span>painter</span>
+        <a href="#"><img src="https://image.flaticon.com/icons/png/512/2282/2282210.png"/></a>
+      </li>
+       <li>
+        <span>painter</span>
+        <a href="#"><img src="https://image.flaticon.com/icons/png/512/2115/2115955.png"/></a>
+      </li>
+       <li>
+        <span>chess</span>
+        <a href="https://mount-chesss.mohammedtareq2.repl.cowh"><img src="https://image.flaticon.com/icons/png/512/4236/4236872.png"/></a>
+      </li>
+
+   </ul>
+ </div>
+</div>
+
+
+
+  
+
+</head>
+<body>
+
+
+
+
+
+
+
+  
+<img scr= "https://img.icons8.com/emoji/452/mountain-emoji">
+</div>
+
+ 
+
+ 
+
+</head>
+
+
+
+
+
+
+</div>
+   
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+
+
+<style>
+  body{
+  font-family: sans-serif;
+  
+}
+
+a{
+  display: table;
+  text-decoration: none;
+  color: black;
+  
+  padding: 10px;
+  font-size: 30px;
+}
+
+.modalDialog {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 300ms ease-in;
+	-moz-transition: opacity 300ms ease-in;
+	transition: opacity 300ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog:target {
+	opacity:9;
+	pointer-events: auto;
+}
+
+.modalDialog > div {
+	width: 1300px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	
+  
+  background-color: rgb(204, 219, 217);
+  height: 700px;
+  border-radius:15px;
+	
+}
+
+.close {
+  padding: 0;
+	color:black;
+	line-height: 25px;
+	position: absolute;
+	right: 10px;
+	text-align: center;
+	top: 10px;
+	width: 24px;
+	text-decoration: none;
+  background:none;
+	font-weight: bold;
+}
+.maximize {
+  padding: 0;
+	color:black;
+	line-height: 25px;
+	position: absolute;
+	right: 50px;
+	text-align: center;
+	top: 10px;
+	width: 24px;
+	text-decoration: none;
+  background:none;
+	font-weight: bold;
+}
+.manimize{
+  padding: 0;
+	color:black;
+	line-height: 25px;
+	position: absolute;
+	right:100px;
+	text-align: center;
+	top: 10px;
+	width: 24px;
+	text-decoration: none;
+  background:none;
+	font-weight: bold;
+  font-size: 50px;
+}
+.close:hover { 
+color: #EA4436;
+}
+</style>
+<a href="#modal-1"><img src="https://cdn-icons-png.flaticon.com/512/1076/1076546.png" height="60" width="60"/></a>
+<a href="#modal-2"><img src="http://www.mcsin-k12.org/images/links/map.png" height="60" width="60"/></a>
+<a href="#modal-3"><img src="https://cdn-icons-png.flaticon.com/512/3767/3767094.png"height="60" width="60"/></a>
+<a href="#modal-4"><img src="https://www.freeiconspng.com/uploads/calculator-icon-21.png" height="60" width="60"/></a>
+<a href="#modal-5"><img src="https://image.flaticon.com/icons/png/512/1042/1042339.png" height="60" width="60"/></a>
+<a href="#modal-6"><img src="https://image.flaticon.com/icons/png/512/3176/3176366.png" height="60" width="60"/></a>
+<a href="#modal-7">
+<img src="https://image.flaticon.com/icons/png/128/4285/4285654.png" height="60" width="60"/></a>
+
+
+</a>
+<div id="modal-1" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">x</a>
+    <a href="https://clock.mohammedtareq2.repl.co" title="Close" class= "maximize">↖</a>
+    <a href="#close" title="Close" class="manimize">-</a>
+  
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+  
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 500px;
+  background-color: 
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="300" width="500" title="Iframe Example"></iframe></span>
+</div>
+		<h2>clock</h2>
+ 
+
+    		<meta name="viewport" content="width=device-width, initial-scale=2">
+<style>
+  html, body { height: 100% }
+
+.body {
+  margin: 0 auto;
+  background: grey;
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&amp;w=1000&amp;q=80");
+  background-size: cover;
+  background-position: center center;
+}
+
+input[type="file"] {
+  display: none
+}
+
+button {
+  color: rgba(255, 255, 255, 0.85);
+  margin: px;
+  margin-top: 10px;
+  font-family: calibri light;
+  letter-spacing: 2px;
+  font-size: 10px;
+  background: #333;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 25px;
+  cursor: pointer;
+  
+  
+}
+
+button:hover {
+  background: #444;
+}
+
+button:active {
+  background: #111;
+}
+
+button:focus {
+  outline: none;
+}
+  </style>
+<input id="background_input" type="file"/>
+<button id="upload_button">Upload background<br/>or use drag and drop</button>
+<script>
+  var file, 
+    render;
+
+document.getElementById("upload_button").addEventListener("click", function(){
+  document.getElementById("background_input").click();
+}, false);
+
+document.body.addEventListener("drop", function(ev){
+  file = ev.dataTransfer.files[0];
+  if(!file.type.match("image.*")) {
+    alert("This file isn't image or it's unsupported format");
+    return;
+  }
+  reader = new FileReader();
+  reader.addEventListener("load", (function(theFile) {
+    return function(e) {
+      document.body.style.backgroundImage = "url('" + e.target.result + "')";
+		};
+	})(file), false);
+  reader.readAsDataURL(file);
+}, false);
+
+document.getElementById("background_input").addEventListener("change", function(ev){
+  file = ev.target.files[0];
+  if(!file.type.match("image.*")) {
+    alert("This file isn't image or it's unsupported format");
+    return;
+  }
+  reader = new FileReader();
+  reader.addEventListener("load", (function(theFile) {
+    return function(e) {
+      document.body.style.backgroundImage = "url('" + e.target.result + "')";
+		};
+	})(file), false);
+  reader.readAsDataURL(file);
+}, false);
+</script>
+
+   <iframe src="https://diagnostics.mohammedtareq2.repl.co" height="300" width="850" frameborder="0"title="Iframe Example"></iframe>
+ 
+
+
+	</div>
+</div>
+<div id="modal-2" class="modalDialog">
+	<div>
+	<a href="#close" title="Close" class="close">x</a>
+    <a href="https://mount-explorer.mohammedtareq2.repl.co" title="Close" class= "maximize">↖</a>
+    <a href="#close" title="Close" class="manimize">-</a>
+    <style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+		<h2>browser</h2>
+		<iframe src="https://mount-explorer.mohammedtareq2.repl.co" height="500" width="1050" frameborder="0"title="Iframe Example"></iframe>
+	</div>
+</div>
+<div id="modal-3" class="modalDialog">
+	<div>
+			<a href="#close" title="Close" class="close">x</a>
+    <a href="https://clock.mohammedtareq2.repl.co" title="Close" class= "maximize">↖</a>
+    <a href="#close" title="Close" class="manimize">-</a>
+    <style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+	<iframe src="https://files.mohammedtareq2.repl.co" height="530" width="900" frameborder="0"title="Iframe Example"></iframe>
+	</div>
+</div>
+<div id="modal-4" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">x</a>
+    <a href="https://clock.mohammedtareq2.repl.co" title="Close" class= "maximize">↖</a>
+    <a href="#close" title="Close" class="manimize">-</a>
+    <style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+		
+	</div>
+</div>
+<div id="modal-5" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">x</a>
+    <a href="https://clock.mohammedtareq2.repl.co" title="Close" class= "maximize">↖</a>
+    <a href="#close" title="Close" class="manimize">-</a>
+    <style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+		<h2>Modal Box</h2>
+		<p>This is a sample modal box that can be created using the powers of CSS3.</p>
+		<p>You could do a lot of things here like have a pop-up ad that shows when your website loads, or create a login/register form for users.</p>
+<iframe src="https://camera.mohammedtareq2.repl.co" height="450" width="900" title="Iframe Example"></iframe>
+	</div>
+</div>
+<div id="modal-6" class="modalDialog">
+	<div>
+			<a href="#close" title="Close" class="close">x</a>
+    <a href="https://clock.mohammedtareq2.repl.co" title="Close" class= "maximize">↖</a>
+    <a href="#close" title="Close" class="manimize">-</a>
+    <style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+		<h2>Modal Box</h2>
+		<p>This is a sample modal box that can be created using the powers of CSS3.</p>
+		<p>You could do a lot of things here like have a pop-up ad that shows when your website loads, or create a login/register form for users.</p>
+    <iframe src="https://files-2.mohammedtareq2.repl.co" height="450" width="900" title="Iframe Example"></iframe>
+	</div>
+</div>
+<div id="modal-7" class="modalDialog">
+	<div>
+				<a href="#close" title="Close" class="close">x</a>
+    <a href="https://clock.mohammedtareq2.repl.co" title="Close" class= "maximize">↖</a>
+    <a href="#close" title="Close" class="manimize">-</a>
+    <style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-align: left;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: %;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+<body style="text-align:left;">
+
+
+
+<div class="tooltip">🎨									
+  <span class="tooltiptext">
+<iframe src="https://mount-painter-1.mohammedtareq2.repl.co" height="200" width="300" title="Iframe Example"></iframe></span>
+</div>
+		<h2>games</h2>
+		<p>This is a sample modal box that can be created using the powers of CSS3.</p>
+		<p>You could do a lot of things here like have a pop-up ad that shows when your website loads, or create a login/register form for users.</p>
+    <a href ="https://damonkeexe.github.io/minecraftweb1.5.2/index.html" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" alt="Minecraft, logo Free Icon of Vector Logo" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 20px; height: 20px; margin: 0px; ">minecraft</a><br><a href ="https://browncha023.github.io/GBA/launcher#fifa7" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/630/630604.png" alt="Fifa - Free flags icons" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 20px; height: 20px; margin: 0px;">fifa7</a>
+
+</div>
+<div class="alan-btn"></div>
+<script type="text/javascript"
+ src="https://studio.alan.app/web/lib/alan_lib.min.js"></script>
+<script>
+  var alanBtnInstance = alanBtn({
+    key: "a0c6faf1f99630824c6533a108d229f82e956eca572e1d8b807a3e2338fdd0dc/stage",
+    onCommand: function (commandData) {
+      if (commandData.command === "go:back") {
+        //call client code that will react on the received command
+      }
+    },
+    rootEl: document.getElementById("alan-btn"),
+  });
+</script>
+<div class="main">
+        <div class="search-container change" id="search">
+            <div class="cursor change">
+                <input type="text" class="rq-form-element" id="input"/>
+            </div>
+            <div class="icon change">
+                <span class="circle">
+                </span>
+                <span class="stick"></span>
+            </div>
+        </div>
+        <style>
+          .main{
+            
+          }
+.search-container{
+background-color: #6633ff;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+width: 100px;
+height: 4rem;
+border-radius: 50px;
+box-shadow: -2px 10px 20px #cc99ff;
+transition: width 1s ease;
+cursor:pointer;
+margin-left: 1200;
+margin-top:490;
+}
+
+.cursor{
+	display: none;
+}
+.cursor.active{
+	display:block;
+}
+/*.cursor	i {
+	display: none;
+	position: absolute;
+    width: .4rem;
+    height: 2.3rem;
+    background-color: white;
+    animation-name: blink;
+    animation-duration: 800ms;
+    animation-iteration-count: infinite;
+    opacity: 1;
+    margin-top: -17px;
+    margin-left: 2.8rem;
+}*/
+/*@keyframes blink {
+	0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}*/
+
+/*input */
+input.rq-form-element{
+	height: 2rem;
+    background-color: transparent;
+    position: absolute;
+    margin: -1rem 2.8rem;
+    border: none;
+    color: white;
+    font-size: xx-large;
+        letter-spacing: .3rem;
+    text-transform: uppercase;
+    font-variant: unicase;
+}
+input:focus{
+    outline: none;
+}
+.search-container.active{
+	width: 500px;
+}
+.icon{
+    width: 2rem;
+    height: 2rem;
+    margin-left:2rem;
+    position: relative;
+    overflow: hidden;
+    transform: rotateY(0deg);    
+    transition: transform 1s ease;
+}
+.icon.active{
+/*	transform:rotateY(278deg);
+*/	display:none;
+}
+.icon:hover{
+	transform: rotateY(270deg);
+}
+
+.circle{
+	width: 1rem;
+    height: 1rem;
+    border-radius: 100%;
+    border: solid .2rem #ffffff;
+    position: absolute;
+    
+}
+
+.stick{
+	width: 0.2rem;
+    height: 1rem;
+    border-radius: 10px;
+    background: #ffff;
+    position: absolute;
+    margin-top: .88rem;
+    margin-left: 1.39rem;
+    transform: rotate(-48deg);
+	
+}
+
+</style>
+<script>
+  const seachContainer = document.getElementById('search');
+const input = document.getElementById('input');
+const divChange = document.querySelectorAll('.change')
+
+
+seachContainer.addEventListener('click', () => {
+    divChange.forEach(changer => {
+       changer.classList.add('active')
+    })
+     input.focus();
+})
+</script>
+</head>
+</html>
